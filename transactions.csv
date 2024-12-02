@@ -1,0 +1,5 @@
+timestamp,type,amount,purpose,wallet_alias,transaction_id
+2024-12-02 17:09:00,outgoing,3.74,food,main,mock_20241202170858567400
+2024-12-02 17:09:19,outgoing,8.73,shopping,main,mock_20241202170908572714
+2024-12-02 17:09:21,outgoing,4.82,transport,main,mock_20241202170918566090
+2024-12-02 17:09:51,outgoing,4.06,other,main,mock_20241202170948562931
